@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2.2 Profile</string>
+    <string name="txtName">Name:</string>
+    <string name="txtEmail">Email:</string>
+    <string name="email"></string>
+    <string name="web"></string>
+    <string name="phone"></string>
+    <string name="home"></string>
+    <string name="updateProfile">Update Profile</string>
+    <string name="editTextName">Name:</string>
+    <string name="editTextEmail">Email:</string>
+    <string name="saveBtn">Save</string>
+</resources>
